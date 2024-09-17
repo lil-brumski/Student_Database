@@ -20,4 +20,6 @@
 
 * `$ ./student.o`
 
+* An `admission-list.txt` file will be automatically created. This file contains the admission list.
+
 * Made by David Tamaratare Oghenebrume.

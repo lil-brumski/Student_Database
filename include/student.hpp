@@ -1,10 +1,8 @@
 #include <string>
 #include <iostream>
 #include <fstream>
-#include <set>
 
-class Database{
-  
+class Database{ 
 private:
   std::string name;
   int olevel_credits;
