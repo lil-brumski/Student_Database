@@ -1,0 +1,1 @@
+/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ CMakeFiles/brum.o.dir/src/main.cpp.o CMakeFiles/brum.o.dir/src/student.cpp.o -o brum.o 
