@@ -1,8 +1,0 @@
-Name: David Tamaralayefa, Age: 17, Olevel Credits: 7, Jamb Score: 246, Post UTME Score: 24, Aggregate Score: 54.
-
-Name: David Tamaratare Oghenebrume, Age: 17, Olevel Credits: 7, Jamb Score: 246, Post UTME Score: 24, Aggregate Score: 54.
-
-Name: David Tamaralayefa, Age: 15, Olevel Credits: 8, Jamb Score: 206, Post UTME Score: 25, Aggregate Score: 50.
-
-Name: Roberto Brumski, Age: 18, Olevel Credits: 9, Jamb Score: 296, Post UTME Score: 40, Aggregate Score: 77.
-

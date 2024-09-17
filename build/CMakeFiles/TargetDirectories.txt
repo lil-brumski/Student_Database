@@ -1,3 +1,0 @@
-/storage/emulated/0/Documents/Cxxdroid/Student_Database/build/CMakeFiles/rebuild_cache.dir
-/storage/emulated/0/Documents/Cxxdroid/Student_Database/build/CMakeFiles/edit_cache.dir
-/storage/emulated/0/Documents/Cxxdroid/Student_Database/build/CMakeFiles/brum.o.dir
