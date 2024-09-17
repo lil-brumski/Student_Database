@@ -8,6 +8,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 file(GLOB SOURCES "src/*.cpp")
 
-add_executable(brum.o ${SOURCES})
+add_executable(student.o ${SOURCES})
 
-target_include_directories(brum.o PRIVATE include)
+target_include_directories(student.o PRIVATE include)
