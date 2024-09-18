@@ -22,13 +22,10 @@ int main(){
   if(!NAMES.is_open()){
     std::cout << "Can\'t open file, try again.\n";
   }
-  else{//else-begins.
-    
-    while(true){//First While Loop.
-      auto studentInfo = std::make_unique<Database>();
-    
-      while(std::getline(NAMES, collector)){//Second While Loop.
-      
+  else{//else-begins.      
+      while(std::getline(NAMES, collector)){//While Loop.      
+        auto studentInfo = std::make_unique<Database>();
+        
         individual_names = collector;
       
         v_olevel_credits = r_olevel_credits(gen);
@@ -38,12 +35,9 @@ int main(){
     
         studentInfo->checkStudent(individual_names, v_olevel_credits, v_age, v_jamb_score, v_post_utme).admission().admissionList();
       
-     }//Second While Loop.    
+     }//While Loop.  
     
-     break;    
-    }//First While Loop.
-    
-    std::cout << "Success!\n";
+    std::cout << "Successive screening!\n";
   }//else-ends.
   
   
