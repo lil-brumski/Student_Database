@@ -1,8 +1,6 @@
 #include <Student_Database/student.hpp>
 #include <memory>
 #include <random>
-#include <chrono>
-#include <thread>
 
 int main(){
   
