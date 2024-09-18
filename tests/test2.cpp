@@ -6,7 +6,7 @@ int main(){
     Database studentInfo;
     
     //First Candidate
-    studentInfo.checkStudent("David Tamaratare Oghenebrume", 7, 17, 246, 24)
+    studentInfo.checkStudent("David Tamaratare Oghenebrume", 7, 17, 246, 24);
     studentInfo.admission();  
     studentInfo.admissionList();
     
