@@ -22,4 +22,6 @@
 
 * An `admission-list.txt` file will be automatically created in the parent directory. This file contains the admission list.
 
+* Documentation is located [here](https://github.com/lil-brumski/Student_Database/tree/main/docs).
+
 * Made by David Tamaratare Oghenebrume.
