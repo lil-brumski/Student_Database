@@ -34,8 +34,9 @@ int main(){
         studentInfo->checkStudent(individual_names, v_olevel_credits, v_age, v_jamb_score, v_post_utme).admission().admissionList();
       
      }//While Loop.  
+     NAMES.close();
     
-    std::cout << "Successive screening!\n";
+   std::cout << "Successive screening!\n";
   }//else-ends.
   
   

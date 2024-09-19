@@ -13,12 +13,12 @@ Database& Database::checkStudent(std::string name, int olevel_credits, int age, 
 }
 
 Database& Database::admission(){
-  if(olevel_credits >= 5 && age >= 15 && aggregate >= 50){
-    std::cout << "You have been admitted " << name << "!" << std::endl;
+  if(olevel_credits >= 5 && age >= 15 && jambScore >= 190 && aggregate >= 50){
+    std::cout << name << " has been admitted!" << std::endl;
     admitted = true;
   }
   else{
-    std::cout << "Sorry " << name << ", no admission for you.\n";
+    std::cout << name << " was not admitted.\n";
   }
   
   return *this;
