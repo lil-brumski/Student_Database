@@ -4,6 +4,8 @@
 
 * It's supposed to be an admission system that admits students based on their qualifications.
 
+* Run `pkg install clang cmake' to download necessary tools for running this project.
+
 * Download this project using `$ git clone https://github.com/lil-brumski/Student_Database.git` inside any working terminal/command line.
 
 * `$ cd Student_Database/`
