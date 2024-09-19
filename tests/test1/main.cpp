@@ -4,7 +4,7 @@
 
 int main(){
   
-  std::ifstream NAMES{"../tests/candidate-list.txt"};
+  std::ifstream NAMES("../tests/test1/candidate-list.txt");
   
   //For storing the names of the values gotten from the NAME object.
   std::string collector, individual_names;
