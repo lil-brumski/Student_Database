@@ -26,6 +26,6 @@
 
 * Documentation is located [here](https://github.com/lil-brumski/Student_Database/tree/main/docs).
 
-* Check out the test codes in [tests/](https://github.com/lil-brumski/Student_Database/tree/main/tests) especially the [main.cpp](https://github.com/lil-brumski/Student_Database/blob/main/tests%2Fmain.cpp) that selects qualified candidates from the [candidate-list.txt](https://github.com/lil-brumski/Student_Database/blob/main/tests%2Fcandidate-list.txt) file. The main.cpp file automatically generates the O'level, age, JAMB score and POST UTME score for each name. It them selects those qualified and creates a profile for them in the created `admission-list.txt` file.
+* Check out the test codes in [tests/](https://github.com/lil-brumski/Student_Database/tree/main/tests) especially the [main.cpp in the test1/ subdirectory](https://github.com/lil-brumski/Student_Database/blob/main/tests%2Ftest1%2Fmain.cpp) that selects qualified candidates from the [candidate-list.txt](https://github.com/lil-brumski/Student_Database/blob/main/tests%2Ftest1%2Fcandidate-list.txt) file. The main.cpp file automatically generates the O'level, age, JAMB score and POST UTME score for each name. It them selects those qualified and creates a profile for them in the created `admission-list.txt` file.
 
 * Made by David Tamaratare Oghenebrume.
