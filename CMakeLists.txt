@@ -8,6 +8,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 file(GLOB SOURCES "src/*.cpp")
 
-add_executable(student.o tests/main.cpp ${SOURCES})
+add_executable(student.o tests/test1/main.cpp ${SOURCES})
 
 target_include_directories(student.o PRIVATE include)

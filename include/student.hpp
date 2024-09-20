@@ -1,3 +1,9 @@
+//This is the declaration file for this project.
+//Made by David Tamaratare Oghenebrume
+//@lil-brumski on GitHub.
+ 
+#pragma once
+
 #include <string>
 #include <iostream>
 #include <fstream>
