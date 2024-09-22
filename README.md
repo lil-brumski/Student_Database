@@ -6,7 +6,7 @@
 
 * Run `$ pkg install clang cmake` to download necessary tools for running this project.
 
-* Download this project using the following inside any working terminal/command line:
+* Download this project and build it using the following inside any working terminal/command line:
 
 ```bash 
    $ git clone https://github.com/lil-brumski/Student_Database.git
