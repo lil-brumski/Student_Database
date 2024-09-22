@@ -15,7 +15,7 @@
    $ cd build/
    $ cmake ..
    $ make
-   $ chmod +x student.`
+   $ chmod +x student.
    $ ./student.o
 ```
 
