@@ -6,21 +6,18 @@
 
 * Run `$ pkg install clang cmake` to download necessary tools for running this project.
 
-* Download this project using `$ git clone https://github.com/lil-brumski/Student_Database.git` inside any working terminal/command line.
+* Download this project using the following inside any working terminal/command line:
 
-* `$ cd Student_Database/`
-
-* `$ mkdir build/`
-
-* `$ cd build/`
-
-* `$ cmake ..`
-
-* `$ make`
-
-* `$ chmod +x student.o`
-
-* `$ ./student.o`
+```bash 
+   $ git clone https://github.com/lil-brumski/Student_Database.git
+   $ cd Student_Database/
+   $ mkdir build/
+   $ cd build/
+   $ cmake ..
+   $ make
+   $ chmod +x student.`
+   $ ./student.o
+```
 
 * An `admission-list.txt` file will be automatically created in the parent directory. This file contains the admission list.
 
